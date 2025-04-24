@@ -1,7 +1,5 @@
 # Portfolio Website
 
-![Project Screenshot](./screenshot.png) <!-- Add your screenshot path -->
-
 A modern responsive portfolio website built with Tailwind CSS, showcasing projects and professional information.
 
 ## Features
